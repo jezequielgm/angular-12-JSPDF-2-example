@@ -1,0 +1,41 @@
+.mat-dialog {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.container {
+  position: relative;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.action-buttons {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.architect-main {
+  position: absolute;
+  top: 12%;
+  left: 50px;
+  font-size: 45px;
+  line-height: 40px;
+  text-transform: uppercase;
+}
+
+.name {
+  font-family: 'ReplicaProBold';
+}
+
+.surname {
+  font-family: 'ReplicaRegular';
+}
+
+.architect-other-details {
+  position: absolute;
+  top: 40%;
+  left: 50px;
+  font-family: 'ReplicaRegular';
+  font-size: 30px;
+}
